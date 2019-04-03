@@ -1,11 +1,11 @@
 # general configuration
-url: http://excentris.net
+url: http://cogneuro.or.kr
 baseurl: ''
 
 # compass configuration
 compass:
   # an avatar or logo (optional)
-  logo: "/images/compass.png"
+  logo: "/images/brain_logo_yb.png"
   # author will appear under the avatar (optional)
   author: "CNL"
   # tagline will appear under the title (optional)
@@ -18,7 +18,7 @@ compass:
   # Tracking Code to that file.
   include_analytics: false
   # Twitter @username (as defined by the Twitter Card specs)
-  twitter: "compass"
+  twitter: 
 
 # exclude
 exclude: ["CNAME", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
